@@ -1,11 +1,11 @@
 import java.util.Scanner;
 
 /**
-* Write a description of class fixedDeposit here.
-*
-* @author (your name)
-* @version (a version number or a date)
-*/
+ * Write a description of class fixeddeposit here.
+ *
+ * @author (your name)
+ * @version (a version number or a date)
+ */
 public class fixedDeposit
 {
 public static void main(String[] Args)
