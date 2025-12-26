@@ -1,0 +1,12 @@
+package week8.workshop8;
+
+
+/**
+ * Write a description of class BankAccount here.
+ *
+ * @author (your name)
+ * @version (a version number or a date)
+ */
+public class BankAccount
+{
+}
